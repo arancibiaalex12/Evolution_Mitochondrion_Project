@@ -1,6 +1,7 @@
 // Protomodelo - Modelo de  Transição ds Individualidade Endossimbiótica
 // Autor : Alex Arancibia  com colaboração de Carlos Pietro
 // Data de inicio : 12/09/2018
+//
 
 #include <iostream>
 #include <stdlib.h>  // biblioteca para incluir função rand e malloc
